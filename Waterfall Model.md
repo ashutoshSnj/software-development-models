@@ -1,6 +1,7 @@
 # 1️⃣ Waterfall Model
 
-![Waterfall Model](https://github.com/ashutoshSnj/sdlc-models-summary/raw/main/sdlc_waterfall_model%20(1).jpg)
+![Waterfall Model](https://raw.githubusercontent.com/ashutoshSnj/sdlc-models-summary/main/waterfall_model.jpg)
+
 
 ## 📌 Overview
 The Waterfall Model is one of the earliest approaches to software development. It is a **linear and sequential model** where each phase depends on the deliverables of the previous one and corresponds to a specialization of tasks.

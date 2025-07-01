@@ -3,39 +3,52 @@
 ![Prototype Model](https://raw.githubusercontent.com/ashutoshSnj/software-development-models/main/Prototyping-model.png)
 
 ## 📌 Overview
-The Prototype Model is used when the exact requirements of the customer are not known. Instead of freezing the requirements early, a prototype is developed to understand what the client actually wants.
+The Prototype Model focuses on building a **working model of the software (prototype)** early in the development process. It is highly useful when requirements are not clear. The prototype helps both client and developer understand and refine the system before the final version is built.
 
-This prototype is a working version with limited features — it helps both the developer and client to understand the software behavior.
+## 🧱 When to Use
+- Client is unsure about exact requirements
+- User interfaces are important (UI/UX-heavy systems)
+- High-risk projects where client feedback is essential
 
-## 🔁 Phases in Detail
+## 🔁 Phases Explained in Detail
 
-1. **Initial Requirements Identification**  
-   Developers gather basic and unclear requirements. These are not fixed — just enough to start building a prototype.
+### 1. Initial Requirement Gathering
+- Focus on gathering high-level or basic requirements.
+- Detailed specs are not necessary at this stage.
 
-2. **Develop Prototype**  
-   A quick version of the software is created. It may not include all functionality, but gives a feel of the real system.
+### 2. Quick Design & Prototype Development
+- Rapidly develop a basic version of the software (UI or partial logic).
+- Emphasis on speed, not quality or completeness.
 
-3. **User Evaluation and Feedback**  
-   The client uses the prototype and gives feedback. This is the most crucial part of this model.
+### 3. Client Evaluation
+- Client uses the prototype, tests workflow, suggests changes.
+- Interaction is iterative — may go through several feedback loops.
 
-4. **Refinement of Prototype**  
-   Based on feedback, changes are made and the prototype is improved or rebuilt.
+### 4. Refinement
+- Developers update prototype based on feedback.
+- Process continues until client approves the features and UI.
 
-5. **Final System Development**  
-   Once requirements are clear and the prototype is accepted, the real system is developed and deployed.
+### 5. Final System Development
+- Once prototype is finalized, full development begins.
+- Clear and confirmed requirements are implemented in production version.
 
-## ✅ Advantages
-- Improves communication between client and developer.
-- Reduces chances of requirement misunderstandings.
-- User actively involved in early phases.
+### 6. System Testing and Delivery
+- Final system is thoroughly tested and delivered.
+- Prototype is usually discarded after final build.
 
-## ❌ Disadvantages
-- Frequent changes can increase cost.
-- Prototype might be misunderstood as the final system.
-- Extra effort required to build prototypes.
+## ✅ Pros
+- Helps clarify vague or unknown requirements.
+- High customer satisfaction due to continuous involvement.
+- Errors and misunderstandings are detected early.
 
-## 💡 Real-Life Analogy
-Like trying on clothes in a store before buying — you get a feel for the product before committing to the final one.
+## ❌ Cons
+- Time-consuming if client keeps changing ideas.
+- May increase budget due to multiple iterations.
+- Developers may reuse bad code from prototype (technical debt).
+
+## 👟 Real-Life Analogy
+Like test-driving a car before buying. You may test different models (prototypes) until you finalize your choice.
 
 ## 👨‍💻 Developer Insight
-Perfect when client isn’t clear about requirements. You’ll save time by avoiding rework later.
+Great model for UI-heavy apps or startup MVPs. But avoid reusing prototype code blindly — rewrite properly.
+"""

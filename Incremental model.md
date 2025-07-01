@@ -1,7 +1,7 @@
 
 # 3️⃣ Incremental Model
 
-![Incremental Model](https://raw.githubusercontent.com/ashutoshSnj/software-development-models/main/Incremental-Model.png)
+![Incremental Model](https://github.com/ashutoshSnj/SDL-img/blob/main/Incremental-Model.png)
 
 ## 📌 Overview
 The Incremental Model delivers software in parts (increments). Each increment adds features to the previous release until the full system is complete. It combines Waterfall structure with Agile flexibility.

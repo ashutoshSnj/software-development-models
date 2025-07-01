@@ -42,3 +42,4 @@ Like constructing a building: once the foundation is laid and floors are constru
 ## 👨‍💻 Developer Insight
 As a developer, this model feels very rigid. You can’t move ahead until the previous step is complete. Also, any misunderstanding in requirements is usually discovered very late — making changes costly.
 """
+![Waterfall Model](https://github.com/ashutoshSnj/sdlc-models-summary/raw/main/sdlc_waterfall_model%20(1).jpg)

@@ -1,6 +1,6 @@
 # 1️⃣ Waterfall Model
 
-![Waterfall Model](https://raw.githubusercontent.com/ashutoshSnj/software-development-models/main/sdlc_waterfall_model.jpg)
+![Waterfall Model](https://github.com/ashutoshSnj/SDL-img/blob/main/sdlc_waterfall_model.jpgg)
 
 ## 📌 Overview
 The Waterfall Model is a **sequential software development model** where progress flows downwards — like a waterfall — through multiple phases. Each phase must be completed before the next one begins. It’s ideal when the project scope and requirements are well-defined and fixed.

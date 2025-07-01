@@ -1,6 +1,6 @@
 # 2️⃣ Prototype Model
 
-![Prototype Model](https://raw.githubusercontent.com/ashutoshSnj/software-development-models/main/Prototyping-model.png)
+![Prototype Model](https://github.com/ashutoshSnj/SDL-img/blob/main/Prototyping-model.png)
 
 ## 📌 Overview
 The Prototype Model focuses on building a **working model of the software (prototype)** early in the development process. It is highly useful when requirements are not clear. The prototype helps both client and developer understand and refine the system before the final version is built.

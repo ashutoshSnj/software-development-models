@@ -1,23 +1,48 @@
 # 🌀 Spiral Model
-![Spiral Model](https://github.com/ashutoshSnj/SDL-img/blob/main/Spiral.png)
+
 ## 📌 Overview
-The Spiral Model is a risk-driven software development process model that combines elements of both design and prototyping in stages. It is intended for large, complex, and high-risk projects.
+The Spiral Model is a **risk-driven software development model** that combines elements of both **design and prototyping** in stages. It's best suited for **large, complex, and high-risk projects**.
 
-## 🔄 Phases of Each Spiral Loop
-1️⃣ **Planning** – Identify objectives, alternatives, and constraints.  
-2️⃣ **Risk Analysis** – Identify and resolve project risks.  
-3️⃣ **Engineering** – Develop and verify the next-level product.  
-4️⃣ **Evaluation** – Assess the previous cycle and plan the next.
+Unlike the waterfall model, the Spiral Model allows for incremental releases and continuous refinement through repeated cycles (or spirals).
 
-## ✅ Best Suited For
-- Large, high-risk projects.
-- Projects with uncertain requirements.
-- Projects requiring regular risk assessments and client feedback.
+## 🔁 Key Features
+- Emphasizes **risk analysis**
+- Involves **iterative development**
+- Combines **design and prototyping**
+- Suitable for **complex projects with changing requirements**
 
-## ❌ Drawbacks
-- Can be expensive due to repeated phases.
-- Requires expertise in risk analysis.
+## 🖼️ Diagram  
+![Spiral Model Diagram](https://github.com/ashutoshSnj/SDL-img/blob/main/Spiral.png)
 
-## 💡 Real-Life Analogy
-Like developing a rocket – every step must be tested and verified before moving forward.
-"""
+## 🔍 Phases in Each Spiral
+1. **Planning** – Requirements gathering and analysis.
+2. **Risk Analysis** – Identify and evaluate risks.
+3. **Engineering** – Actual development and testing.
+4. **Evaluation** – Customer feedback and planning for next spiral.
+
+## ✅ Advantages
+- Strong risk management
+- Good for large projects
+- Can incorporate changes easily
+
+## ❌ Disadvantages
+- Not suitable for small projects
+- Risk assessment expertise required
+- Can be costly and time-consuming
+
+## 🧠 Use Case
+- Complex ERP systems  
+- Banking and defense applications where failure is costly
+
+## 📊 Summary Table
+
+| Feature | Spiral Model |
+|--------|--------------|
+| Iterative | ✅ |
+| Risk Focus | ✅ High |
+| Flexibility | ✅ |
+| Cost | ❌ High |
+| Complexity Handling | ✅ Excellent |
+
+## 🔗 Additional Resources
+- [Wikipedia - Spiral Model](https://en.wikipedia.org/wiki/Spiral_model)
